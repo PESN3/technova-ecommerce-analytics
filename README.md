@@ -189,8 +189,7 @@ Pedro Enmanuel Sanchez Noriega
 - Formacion en Psicologia Organizacional y Gestion Remota
 - Google Data Analytics (en curso)
 
-LinkedIn: [tu-linkedin]
-GitHub: [tu-github]
+GitHub:PESN3
 
 ---
 
